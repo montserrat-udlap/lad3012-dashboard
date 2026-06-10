@@ -33,7 +33,7 @@ TU_ID     = "182301"
 # Despues vuelves a GitHub, editas esta linea, y haces commit.
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
-TU_INSIGHT = """Descubrí que las ventas totales de $1,776,494 solo generan $55,006 de ganancia, dejando un margen crítico de 3.1% que está 8.9 puntos porcentuales abajo del benchmark. Recomiendo auditar las categorías con mayores descuentos y ajustar la estrategia de precios para recuperar el margen objetivo del 12%."""
+TU_INSIGHT = """
 Aun no he escrito mi insight. Lo agregare despues de explorar
 los graficos y filtros de mi dashboard.
 """
@@ -158,7 +158,8 @@ with st.expander("🔍 Preguntas guia para encontrar tu insight"):
 **Juega con los filtros del sidebar mientras te haces estas preguntas:**
 
 1. **Region menos rentable.** Deja solo una region a la vez en el filtro.
-¿Cual tiene el margen mas bajo? ¿Por que crees que sea?
+Descubrí que las ventas totales de $1,776,494 solo generan $55,006 de ganancia, dejando un margen crítico de 3.1% que está 8.9 puntos porcentuales abajo del benchmark. Recomiendo auditar las categorías con mayores descuentos y ajustar la estrategia de precios para recuperar el margen objetivo del 12%."""
+
 
 2. **Categoria problema.** ¿Hay alguna categoria cuyo margen sea sospechosamente bajo
 incluso cuando todas las regiones estan activas? ¿Que decision tomarias como gerente?
