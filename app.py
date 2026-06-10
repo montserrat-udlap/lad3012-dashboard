@@ -158,7 +158,7 @@ with st.expander("🔍 Preguntas guia para encontrar tu insight"):
 **Juega con los filtros del sidebar mientras te haces estas preguntas:**
 
 1. **Region menos rentable.** Deja solo una region a la vez en el filtro.
-Descubrí que las ventas totales de $1,776,494 solo generan $55,006 de ganancia, dejando un margen crítico de 3.1% que está 8.9 puntos porcentuales abajo del benchmark. Recomiendo auditar las categorías con mayores descuentos y ajustar la estrategia de precios para recuperar el margen objetivo del 12%."""
+"""Descubrí que las ventas totales de $1,776,494 solo generan $55,006 de ganancia, dejando un margen crítico de 3.1% que está 8.9 puntos porcentuales abajo del benchmark. Recomiendo auditar las categorías con mayores descuentos y ajustar la estrategia de precios para recuperar el margen objetivo del 12%."""
 
 
 2. **Categoria problema.** ¿Hay alguna categoria cuyo margen sea sospechosamente bajo
