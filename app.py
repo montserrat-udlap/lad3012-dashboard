@@ -147,27 +147,11 @@ top10 = (
 st.dataframe(top10, use_container_width=True, hide_index=True)
 
 st.markdown("---")
-st.markdown(""" ### Insight de negocio """)
+st.subheader("💡 Insight de negocio")
 
 TU_INSIGHT = """Descubri que las ventas totales de 1776494 solo generan 55006 de ganancia, dejando un margen critico de 3.1 por ciento que esta abajo del benchmark. Recomiendo auditar las categorias con mayores descuentos y ajustar la estrategia de precios para recuperar el margen objetivo del 12 por ciento."""
 
 st.info(TU_INSIGHT)
----
-
-**Tu insight ideal:**
-una frase con TU hallazgo + una frase con TU recomendacion.
-
-Ejemplo de la estructura (no copies el contenido, escribe el tuyo):
-*"Descubri que [HALLAZGO con un dato concreto]. Recomiendo
-[ACCION concreta] para [RESULTADO esperado]."*
-    """)
-
-# ============================================================
-# INSIGHT DE NEGOCIO
-# ============================================================
-st.subheader("💡 Insight de negocio")
-st.info(TU_INSIGHT)
-
 # ============================================================
 # FOOTER
 # ============================================================
