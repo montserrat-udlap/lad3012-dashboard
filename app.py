@@ -154,7 +154,7 @@ st.markdown("---")
 # Tu insight personal sera mas valioso que solo responder estas.
 # ============================================================
 with st.expander("🔍 Preguntas guia para encontrar tu insight"):
-    st.markdown("""
+    st.markdown(""")
 **Juega con los filtros del sidebar mientras te haces estas preguntas:**
 
 1. **Region menos rentable.** Deja solo una region a la vez en el filtro.
